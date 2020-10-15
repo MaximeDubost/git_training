@@ -1,11 +1,1 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< Updated upstream
-=======
-Some text on the second line
-Some text on the third line
-Some text on the fourth line
-There are many changes here !
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
